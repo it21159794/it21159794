@@ -1,4 +1,7 @@
 ### Hi there 👋
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Vishal+%F0%9F%91%8B;Computer+Science+Student;Fill+Stack+Developer+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+    </div>
 
 <!--
 **it21159794/it21159794** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +19,7 @@ Here are some ideas to get you started:
 
 
 
-<div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Vishal+%F0%9F%91%8B;Computer+Science+Student;Fill+Stack+Developer+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
-    </div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/anderson-mendoza-ramos-7551141b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a>
