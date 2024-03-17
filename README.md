@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+id="user-content-toc"
 ### Hi there 👋
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Vishal+%F0%9F%91%8B;Computer+Science+Student;Fill+Stack+Developer+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
@@ -14,7 +16,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: vishalkavishkaliyanaarachchi@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <p align="center">
