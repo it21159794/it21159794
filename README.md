@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
-
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=it21159794&color=brightgreen" alt="watching_count" />
+ </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vishal-liyanaarachchi
